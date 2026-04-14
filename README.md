@@ -15,7 +15,7 @@
 
 * **Frontend:** Flutter (Dart)
 * **Backend:** Firebase (Firestore, Auth)
-* **State Management:** Provider / GetX (Choose whichever you used)
+* **State Management:** Provider
 
 ## 📱 Screenshots
 
